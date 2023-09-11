@@ -8,6 +8,8 @@
 
 <script lang="ts" setup>
 import LayoutClassic from '@/layouts/LayoutClassic/index.vue'
+import {onMounted} from "vue";
+
 </script>
 
 <style lang="scss" scoped>
